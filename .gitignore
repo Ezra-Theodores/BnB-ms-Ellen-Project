@@ -1,0 +1,10 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Large files (GitHub 100MB limit)
+*.mp4
+*.zip
+
+# Temporary
+*.tmp
